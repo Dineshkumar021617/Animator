@@ -71,9 +71,7 @@ public class idleToCrouch : MonoBehaviour
 <br><br><br><br><br><br><br><br><br><br><br>
 
 ## Output:
-![i3](https://user-images.githubusercontent.com/81132849/173627857-9cc9ff1c-e180-4ef7-bb0a-677f7833cb7d.png)
-
+![image](https://user-images.githubusercontent.com/75234807/174871813-08dd5ba1-948d-4589-9801-66c33e5412d9.png)
 
 ## Result:
-
 Animator using unity is developed successfully.
