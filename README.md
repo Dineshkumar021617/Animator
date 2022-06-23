@@ -67,9 +67,6 @@ public class idleToCrouch : MonoBehaviour
 }
 
 ```
-
-<br><br><br><br><br><br><br><br><br><br><br>
-
 ## Output:
 ![image](https://user-images.githubusercontent.com/75234807/174871813-08dd5ba1-948d-4589-9801-66c33e5412d9.png)
 
